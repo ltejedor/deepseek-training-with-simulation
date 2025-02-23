@@ -1,0 +1,13 @@
+# Core ML dependencies
+torch>=2.1.0
+transformers>=4.36.0
+datasets>=2.15.0
+peft>=0.7.0
+trl>=0.7.4
+
+# Logging and monitoring
+wandb>=0.16.0
+tensorboard>=2.15.0
+
+# System interaction (for Gazebo)
+psutil>=5.9.0
