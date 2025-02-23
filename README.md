@@ -1,4 +1,4 @@
-# DeepSeek Robot Design Trainer
+# DeepSeek Training with Simulation
 
 This project implements a training pipeline for the DeepSeek language model to generate robot designs using the Gazebo simulator for validation. The system uses Gazebo to evaluate generated robot designs in SDF (Simulation Description Format) and provides feedback for reinforcement learning.
 
